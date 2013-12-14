@@ -1,1 +1,4 @@
 I like my dog 'pochi'.
+
+He is my friend 'masashi'.
+He likes 'ayumi'.
