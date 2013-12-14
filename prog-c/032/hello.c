@@ -3,6 +3,7 @@
 
 int main(void)
 {
-	prIntf("Hello, world!\n'):
+	printf("Hello, world!\n");
+	printf("See You\n");
 	return EXIT_SUCCESS;
 }
