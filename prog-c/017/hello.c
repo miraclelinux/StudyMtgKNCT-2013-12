@@ -3,12 +3,11 @@
 
 int main(void)
 {
-<<<<<<< HEAD
-	printf("Hello, world!\n");
-	return EXIT_SUCCESS;
-=======
-  printf("Hello, world!\n");
+  int i, j = 0;
+
+  for(i = 0; i < 4256920393; i++)
+    j ++;;;
   
+  printf("Hello, world!\n");
   return EXIT_SUCCESS;
->>>>>>> 1477383211fda1223666f9c5d76ddba45ae9e070
 }
