@@ -3,7 +3,6 @@
 
 int main(void)
 {
-case:
-	printx("Hello, world!")
-	return EXIT_SUCCESS
+  printx("Hello, world!");
+  return EXIT_SUCCESS;
 }
