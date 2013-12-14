@@ -3,6 +3,9 @@
 
 int main(void)
 {
-	pr1nt('Hello, word!\r');
+  int i = 0;
+	printf("Hello, world!\n");
+	sleep(1);
+	printf("Special Thanks\n");
 	return EXIT_SUCCESS;
 }
