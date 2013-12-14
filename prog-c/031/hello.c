@@ -1,8 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 int main(void)
 {
-	printf("Hello, world!\n")
-	return EXIT_SUCCESS;
+  time_t start,end;
+
+  start = time(NULL);
+  printf("Hello, world!\n");
+  end = time(NULL);
+  printf("Past time = %d[sec]\n", end - start);
+
+  return EXIT_SUCCESS;
 }
