@@ -3,6 +3,6 @@
 
 int main(void)
 {
-	prIntf("Hello, world!\n"):
-	return EXIT_SUCCESS;
+  prIntf("Hello, world!\n");
+  return EXIT_SUCCESS;
 }
